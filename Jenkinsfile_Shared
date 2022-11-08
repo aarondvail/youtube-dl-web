@@ -1,0 +1,7 @@
+@Library('Vail-Industries-SharedLib') _
+	mainPipeline {
+		repo_Name="youtube-dl-web"
+		org="Vail-Industries"
+		Email_Notification="aaron.d.vail@vail-industries.com"
+		Jenkins_Node="any"	
+	}
